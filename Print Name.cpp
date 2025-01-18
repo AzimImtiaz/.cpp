@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
 
-    cout<<"Name: Md Fuadul Islam Redoy"; << endl;
-    cout<<"Father's Name: Md Harun Or Rashid"; << endl;
-    cout<<"Mother's Name: Farida Begum";
+    cout<<"Name: Azim Imtiaz"; << endl;
+    cout<<"Father's Name: Abdul Mannan"; << endl;
+    cout<<"Mother's Name: Rehana Begum";
 
     return 0;
 }
