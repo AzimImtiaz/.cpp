@@ -5,7 +5,6 @@ int main() {
     cout<<"EEE,CUET"<<endl;
     cout<<"2202064" <<endl;
     cout<<"Chittagong" <<endl; 
-    return 0;
-    
+    return 0;    
 }
     
